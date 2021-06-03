@@ -1,0 +1,57 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="IO.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="FTP" Type="System.String" Scope="User">
+      <Value Profile="(Default)">88.86.83.22</Value>
+    </Setting>
+    <Setting Name="PORT" Type="System.String" Scope="User">
+      <Value Profile="(Default)">21</Value>
+    </Setting>
+    <Setting Name="LOGIN" Type="System.String" Scope="User">
+      <Value Profile="(Default)">kolomzavod</Value>
+    </Setting>
+    <Setting Name="PASS" Type="System.String" Scope="User">
+      <Value Profile="(Default)">klmzvd777ooao</Value>
+    </Setting>
+    <Setting Name="DIR_SERCH" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ASK</Value>
+    </Setting>
+    <Setting Name="RAR" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\rez_FTP</Value>
+    </Setting>
+    <Setting Name="SAVE" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\rez_FTP</Value>
+    </Setting>
+    <Setting Name="S_TEP70BS" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="S_2TE116U" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="S_3TE116U" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="S_2TE25A" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="S_2TE116UM" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="S_TEM31" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="S_CHME3" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="S_2TE116" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="FILTER" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="Regim_Pasivnii" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
